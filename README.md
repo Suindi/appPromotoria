@@ -1,0 +1,2 @@
+# appPromotoria
+aplicación Promotoria
